@@ -4,7 +4,7 @@ Process of exploring different languages
 
 ## COBOL
 
-macOS 10.13.6, cobc (GnuCOBOL) 2.2.0 compiled executable from is included
+macOS 10.13.6, cobc (GnuCOBOL) 2.2.0 compiled executable is included
 
 	./fizzbuzz
 
